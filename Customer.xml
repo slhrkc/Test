@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<Customer id="1">
+  <firstName>Deep</firstName>
+  <surName>ERİKCİ</surName>
+  <address>Aaaaaa cd. dsdsd. sddsd .sd sdhdkfg kjdfjkghd fdfjhg j</address>
+  <pbx>2165555555</pbx>
+  <gsm>3333333333</gsm>
+  <lastVisitDate>DD.MM.YYYY</lastVisitDate>
+  <totalDepth>333.55</totalDepth>
+  </Customer> 
