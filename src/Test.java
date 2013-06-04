@@ -25,7 +25,7 @@ public class Test {
         Document doc = builder.parse("Customer.xml");
         XPath xpath = XPathFactory.newInstance().newXPath();
         // XPath Query for showing all nodes value
-        XPathExpression expr = xpath.compile("//Customer/firstName/text()");
+        XPathExpression expr = xpath.compile("/Customers/Customer[contains(firstName,'Sa')]/surName/text()");
 
         Object result = expr.evaluate(doc, XPathConstants.NODESET);
         NodeList nodes = (NodeList) result;

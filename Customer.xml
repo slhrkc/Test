@@ -1,6 +1,16 @@
 <?xml version="1.0" ?>
+<Customers>
 <Customer id="1">
-  <firstName>Deep</firstName>
+  <firstName>Salih</firstName>
+  <surName>ERİKCİ</surName>
+  <address>Aaaaaa cd. dsdsd. sddsd .sd sdhdkfg kjdfjkghd fdfjhg j</address>
+  <pbx>2165555555</pbx>
+  <gsm>3333333333</gsm>
+  <lastVisitDate>DD.MM.YYYY</lastVisitDate>
+  <totalDepth>3.55</totalDepth>
+  </Customer> 
+  <Customer id="1">
+  <firstName>Emre</firstName>
   <surName>ERİKCİ</surName>
   <address>Aaaaaa cd. dsdsd. sddsd .sd sdhdkfg kjdfjkghd fdfjhg j</address>
   <pbx>2165555555</pbx>
@@ -8,3 +18,13 @@
   <lastVisitDate>DD.MM.YYYY</lastVisitDate>
   <totalDepth>333.55</totalDepth>
   </Customer> 
+  <Customer id="1">
+  <firstName>Deep</firstName>
+  <surName>ERİKCİ</surName>
+  <address>Aaaaaa cd. dsdsd. sddsd .sd sdhdkfg kjdfjkghd fdfjhg j</address>
+  <pbx>2165555555</pbx>
+  <gsm>3333333333</gsm>
+  <lastVisitDate>DD.MM.YYYY</lastVisitDate>
+  <totalDepth>3323.55</totalDepth>
+  </Customer> 
+</Customers>
